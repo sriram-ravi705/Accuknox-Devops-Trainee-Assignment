@@ -1,8 +1,8 @@
 ## Accuknox-Devops-Trainee-Assignment
 
-##  Problem Statement 1: 
+## Problem Statement 1:
 
-### Wisecow Application on Kubernetes
+### 👉 Wisecow Application on Kubernetes
 
 This project involves containerizing the Wisecow application and deploying it on a Kubernetes cluster, ensuring secure TLS communication and automating the CI/CD pipeline.
 
@@ -24,7 +24,7 @@ Repository link: [Wisecow Kubernetes Deployment Repository](https://github.com/s
 
 ## Problem Statement 2:
 
-### Objectives 1: Automated Backup Solution
+### 👉 Automated Backup Solution
 
 This script automates periodic backups of a specified directory to an AWS S3 bucket, compresses the directory, and sends an email notification about the backup status.
 
@@ -43,7 +43,7 @@ Repository link: [Automated Backup Solution Repository](http://github.com/sriram
 
 ---
 
-### Objectives 2: Log File Analyzer
+### 👉 Log File Analyzer
 
 This script analyzes Nginx web server logs and generates a detailed report about key metrics, including the top IP addresses, response codes, paths, methods, and user agents.
 
