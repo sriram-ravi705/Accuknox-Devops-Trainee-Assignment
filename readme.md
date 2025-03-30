@@ -1,4 +1,4 @@
-# Accuknox-Devops-Trainee-Assignment
+## Accuknox-Devops-Trainee-Assignment
 
 ##  Problem Statement 1: 
 
@@ -38,8 +38,8 @@ Repository link: [Automated Backup Solution Repository](http://github.com/sriram
 
 ### Requirements:
 - **AWS CLI:** Configured with the necessary credentials.
-- **cron:** For scheduling the backup task.
-- **curltab:** For sending email notifications.
+- **crontab:** For scheduling the backup task.
+- **curl:** For sending email notifications.
 
 ---
 
